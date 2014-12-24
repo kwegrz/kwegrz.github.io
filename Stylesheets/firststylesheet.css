@@ -11,32 +11,3 @@ p {
 	font-size: 18px;
 }
 
-div {
-	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #751975;
-	height: 50px;
-	width: 120px;
-	margin: auto;
-	text-align: center;
-}
-
-a {
-	text-decoration: solid;
-	color: #ffffff;
-	font-family: Verdana, sans-serif;
-}
-
-span {
-	font-weight: bold;
-	font-size: 18px;
-	color: #ffffff;
-}
-
-.menu {
-  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
-  left: -285px;  /* start off behind the scenes */
-  height: 100%;
-  position: fixed;
-  width: 285px;
-}
