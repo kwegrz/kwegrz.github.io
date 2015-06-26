@@ -35,9 +35,7 @@ body {
   color: #444;
   cursor: default;
 }
- 
- 
-  /* Option 1 - Display Inline */
+
   .nav li {
     display: inline-block;
     margin-right: -4px;
