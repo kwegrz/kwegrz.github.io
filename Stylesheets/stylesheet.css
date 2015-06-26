@@ -6,5 +6,5 @@ ul {
 
 li {
     display: inline;
-    float: center;
+    text-align: center;
 }
