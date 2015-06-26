@@ -7,11 +7,10 @@ ul {
     margin: 0;
     padding: 0;
     text-align: center;
-}
-
-li {
     display: inline;
 }
+
+
 
 a:link {
     color: #000000;
