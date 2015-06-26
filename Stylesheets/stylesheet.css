@@ -1,15 +1,11 @@
 
 .nav{
-	float:left; 
-	text-align:center;
-	list-style-type: none;
-        margin: 0 auto;
-	padding: 0;
-        overflow: hidden;
-        width: 100%;
-        display: inline-block;
-	text-align: center;
-	padding: 0;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    margin-left: 0px;
 }
 
 a:link, a:visited {
