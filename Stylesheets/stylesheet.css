@@ -6,7 +6,15 @@
         margin: 0 auto;
 	padding: 0;
         overflow: hidden;
-        width: 980px;
+        width: 100%;
+        display: inline-block;
+	text-align: center;
+	padding: 0;
+}
+.nav li {
+   display: inline-block;
+   text-align:center; 
+}
 
 a:link, a:visited {
     display: block;
