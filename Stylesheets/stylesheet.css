@@ -17,7 +17,7 @@
 }
 
 a:link, a:visited {
-    display: block;
+    display:inline-block;
     width: 120px;
     font-weight: bold;
     color: #FFFFFF;
