@@ -3,7 +3,17 @@ body{
     font-size: 14px;
     font-family: sans-serif, serif;
 }
-a{
+a:link, a:visited {
+    display: block;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #98bf21;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
     text-decoration: none;
-    color: black;
+}
+
+a:hover, a:active {
+    background-color: #7A991A;
 }
