@@ -5,7 +5,7 @@ ul {
     overflow: hidden;
 }
 li{
-    display:inline;
+    float:left;
 }
 a:link, a:visited {
     display: block;
