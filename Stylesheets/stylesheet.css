@@ -4,7 +4,7 @@ body{
     font-family: sans-serif, serif;
 }
 a:link, a:visited {
-    display: inline;
+    display: block;
     font-weight: bold;
     color: #ffffff;
     background-color: #70C6C6;
@@ -16,4 +16,7 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color: #65B2B2;
+}
+li{
+    display:inline;
 }
