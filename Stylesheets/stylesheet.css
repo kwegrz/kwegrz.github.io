@@ -7,7 +7,7 @@ ul {
 li{
     float:left;
 }
-#navigation:link, #navigation:visited {
+#navigation a:link, #navigation a:visited {
     display: block;
     width: 120px;
     font-weight: bold;
@@ -19,7 +19,7 @@ li{
     text-transform: uppercase;
 }
 
-#navigation:hover, #navigation:active {
+#navigation a:hover, #navigation a:active {
     background-color: #65B2B2;
 }
 #contact{
