@@ -1,7 +1,8 @@
-
-body{
-    font-size: 14px;
-    font-family: sans-serif, serif;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 li{
     display:inline;
@@ -19,10 +20,4 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color: #65B2B2;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
 }
