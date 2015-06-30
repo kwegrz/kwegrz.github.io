@@ -7,7 +7,7 @@ a:link, a:visited {
     display: block;
     font-weight: bold;
     color: #ffffff;
-    background-color: #98bf21;
+    background-color: #70C6C6;
     width: 120px;
     text-align: center;
     padding: 4px;
@@ -15,5 +15,5 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: #7A991A;
+    background-color: #65B2B2;
 }
