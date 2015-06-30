@@ -3,7 +3,7 @@ body{
     font-size: 14px;
     font-family: sans-serif, serif;
 }
-.nav{
+a{
     text-decoration: none;
     color: black;
 }
