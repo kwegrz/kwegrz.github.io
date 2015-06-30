@@ -22,3 +22,6 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: #65B2B2;
 }
+.contact{
+    text-decoration: none;
+}
