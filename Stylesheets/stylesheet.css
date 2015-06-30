@@ -1,1 +1,9 @@
 
+body{
+font-size: 14px;
+font-family: sans-serif, serif;
+}
+.nav{
+text-decoration:none;
+color: black;
+}
