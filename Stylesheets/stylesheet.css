@@ -16,8 +16,7 @@ li{
     display: block;
     width: 120px;
     font-weight: bold;
-    color: #ffffff;
-    background-color: #A31947;
+    color: #000000;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -25,7 +24,7 @@ li{
 }
 
 #navigation a:hover, #navigation a:active {
-    background-color: #931640;
+    color: #FFFFFF;
 }
 #contact{
     text-decoration: none;
