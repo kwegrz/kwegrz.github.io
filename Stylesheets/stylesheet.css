@@ -1,3 +1,6 @@
+.mtnpic{
+width: 100%;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -25,7 +28,5 @@ li{
 #contact{
     text-decoration: none;
 }
-.mtnpic{
-width: 100%;
-}
+
 
