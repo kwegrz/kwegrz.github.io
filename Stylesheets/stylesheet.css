@@ -12,7 +12,7 @@ li{
     width: 120px;
     font-weight: bold;
     color: #ffffff;
-    background-color: #70C6C6;
+    background-color: #931640;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -20,7 +20,7 @@ li{
 }
 
 #navigation a:hover, #navigation a:active {
-    background-color: #65B2B2;
+    background-color: #931640;
 }
 #contact{
     text-decoration: none;
