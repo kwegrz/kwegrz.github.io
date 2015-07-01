@@ -28,5 +28,11 @@ li{
 #header-image{
 width= 100%; 
 height=600px;
+filter: saturate(50%);
+//Browser Specific
+-webkit-filter: saturate(50%);
+-moz-filter: saturate(50%);
+-o-filter: saturate(50%);
+-ms-filter: saturate(50%);
 }
 
