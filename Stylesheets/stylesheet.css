@@ -1,5 +1,7 @@
 .mtnpic{
 width: 100%;
+height:600;
+-webkit-filter: url(#svg-blur);
 }
 ul {
     list-style-type: none;
