@@ -1,8 +1,13 @@
+body{
+   font-family:serif;
+}
 .header p{
    position: absolute; 
    top: 200px; 
-   left: 0; 
-   width: 100%; 
+   left: 200; 
+   width: 100%;
+   font-weight: bold;
+   font-size: 1.875em;
 }
 .mtnpic{
 width: 100%;
